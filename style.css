@@ -36,10 +36,10 @@ body {
   background: var(--bg-gradient);
 }
 
-img, svg {
-  /* for presentation only */
-  width: 300px;
-  height: auto;
+.logo {
+  width: 100%;
+  margin: 0 0 24px 0;
+  float: left;
 }
 
 .orb-canvas {
