@@ -36,6 +36,12 @@ body {
   background: var(--bg-gradient);
 }
 
+img, svg {
+  /* for presentation only */
+  width: 300px;
+  height: auto;
+}
+
 .orb-canvas {
   position: fixed;
   top: 0;
