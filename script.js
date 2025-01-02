@@ -3,7 +3,7 @@ import { KawaseBlurFilter } from "https://cdn.skypack.dev/@pixi/filter-kawase-bl
 import SimplexNoise from "https://cdn.skypack.dev/simplex-noise@3.0.0";
 import hsl from "https://cdn.skypack.dev/hsl-to-hex";
 // import debounce from "https://cdn.skypack.dev/debounce";
-import debounce from "https://cdn.jsdelivr.net/npm/debounce@2.2.0/+esm"
+import debounce from "https://cdn.jsdelivr.net/npm/debounce@2.2.0/+esm";
 
 // return a random number within a range
 function random(min, max) {
